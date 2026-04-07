@@ -6,7 +6,6 @@ Meals currently in the freezer, available for regular meal plans or quick & dirt
 
 | Meal | Portions | Date Frozen | Reheat Notes |
 |------|----------|-------------|--------------|
-| Bolgnese sauce with veggies | 6 | 2026-03-4 | Reheat and serve with pasta |
 
 
 ## Recently Used
@@ -15,6 +14,7 @@ Track what's been taken out so we know what to replenish.
 
 | Meal | Portions Used | Date Used |
 |------|--------------|-----------|
+| Bolgnese sauce with veggies | 6 | 2026-03-26 |
 
 
 ---
